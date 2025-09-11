@@ -67,8 +67,8 @@ Dentro de esta versión podremos encontrar el *Project Jigsaw* que establece la 
  [JamesGosling]: https://www.linkedin.com/in/jamesgosling/
  [SunMicrosystems]: https://en.wikipedia.org/wiki/Sun_Microsystems
  [JSR59]: https://www.jcp.org/en/jsr/detail?id=59
- [ManualXML]: http://www.manualweb.net/tutorial-xml/ "Manual XML"
+ [ManualXML]: # "Manual XML"
  [ManualXSLT]: http://www.manualweb.net/tutorial-xslt/ "Manual XSLT"
  [OpenJDK]: http://openjdk.java.net/
- [ManualJavascript]: http://www.manualweb.net/tutorial-javascript/ "Manual Javascript"
+ [ManualJavascript]: # "Manual Javascript"
  [Java9]: http://blog.takipi.com/5-features-in-java-9-that-will-change-how-you-develop-software-and-2-that-wont/
