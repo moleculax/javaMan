@@ -57,7 +57,7 @@ Los **bytecodes** son interpretados en tiempo real a código máquina.
 
 ### Alto Rendimiento
 
-[Java][ManualJava] ofrece compiladores Just-In-Time que permiten tener un alto rendimiento.
+ ofrece compiladores Just-In-Time que permiten tener un alto rendimiento.
 
 ### Distribuido
 
