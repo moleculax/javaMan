@@ -75,5 +75,5 @@ El elemento [String][String] es un tipo de dato inmutable. Es decir, que una vez
 
 El [String][String] no es un tipo de dato primitivo del lenguaje [Java][ManualJava]. Pero su uso es igual de importante que el de los tipos de datos revisados aquí. Veremos más en detalle el uso del tipo [String][String].
 
-[ManualJava]: http://www.manualweb.com/tutorial-java/
-[String]: http://www.manualweb.net/java/clase-string-representando-una-cadena/
+[ManualJava]: #
+[String]: #
