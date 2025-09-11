@@ -29,6 +29,6 @@ Todas las preguntas y dudas sobre Java las puedes consultar en el [Foro sobre Ja
 
 
 [PDFJava]: #
-[GitJava]: https://github.com/manualweb/manual-java
+[GitJava]: https://github.com/moleculax
 [ForoJava]: http://www.dudasprogramacion.com/java
 [EjemplosJava]: http://lineadecodigo.com/java/
