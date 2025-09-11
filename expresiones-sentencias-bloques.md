@@ -94,4 +94,4 @@ if (expresion) {
 }
 ~~~
 
-[ManualJava]: http://www.manualweb.net/tutorial-java/
+[ManualJava]: #
