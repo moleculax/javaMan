@@ -236,5 +236,5 @@ En este caso accedemos al método perímetro que heredamos de la clase Polígono
 
 Una de las cosas que tienes que saber en la herencia es que en el constructor de la clase que hereda (o clase hija) se deberá de llamar al constructor de la clase padre. Para ello se utiliza el método especial `super()`;
 
-[ManualJava]: http://www.manualweb.net/tutorial-java/ "Manual Java"
-[String]: http://www.manualweb.net/java/clase-string-representando-una-cadena/ "Clase String Java"
+[ManualJava]: # "Manual Java"
+[String]: # "Clase String Java"
