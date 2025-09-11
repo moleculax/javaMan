@@ -63,7 +63,7 @@ String sMiCadena = new String("Mi Cadena de Texto");
 System.out.println(sMiCadena);
 ~~~
 
-[ManualJava]: http://www.manualweb.net/tutorial-java/ "Manual Java"
+[ManualJava]: # "Manual Java"
 [String]: http://www.w3api.com/wiki/Java:String "String"
 [StringBuffer]: http://www.w3api.com/wiki/Java:StringBuffer
 [JavaLangString]: http://www.w3api.com/wiki/Categor%C3%ADa:Java_Lang
