@@ -115,7 +115,7 @@ En vez de utilizar un navegador web, podemos visualizar el applet mediante una d
 
 <samp>jdk1.4binappletviewer miApplet.html</samp>
 
-[ManualJava]: http://www.manualweb.net/tutorial-java/ "Manual Java"
+[ManualJava]: # "Manual Java"
 [JavaApplet]: http://w3api.com/wiki/Categor%C3%ADa:Java_Applet "java.applet"
 [JavaAWT]: http://w3api.com/wiki/Categor%C3%ADa:Java_AWT "java.awt"
-[ManualHTML]: http://www.manualweb.net/tutorial-html/ "Manual HTML"
+[ManualHTML]: # "Manual HTML"
