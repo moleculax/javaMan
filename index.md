@@ -25,7 +25,7 @@ Si os gusta el contenido del material y los ejemplos os agradecemos si nos aport
 
 Todas las preguntas y dudas sobre Java las puedes consultar en el [Foro sobre Java][ForoJava]. Y puedes echar un ojo a los [ejemplos sobre el lenguaje Java][EjemplosJava].
 
-<script id="github-bjs" src="https://buttons.github.io/buttons.js" async="" defer="defer"></script>
+
 
 
 [PDFJava]: #
